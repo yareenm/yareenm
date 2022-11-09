@@ -2,7 +2,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/75498641/177029595-05dde787-4bf6-4222-a9c3-663005f70510.gif)
 
-⚡ My specialties include quickly learning new programming languages and skills, problem solving, backend design technologies, Model View Controller methods of organizing code. So far, I have experience in Java, Python, C#, .Net Framework, Go, SQL, Javascript, C, C++, OpenCV.
+⚡ My specialties include quickly learning new programming languages and skills, problem solving, backend design technologies, Model View Controller methods of organizing code. So far, I have experience in Java, Python, C#, .Net Framework, Go, SQL, Javascript, C, C++, OpenCV, Spring.
 🌱 I’m currently learning Spring Boot and React.
 
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)   [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)   [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
@@ -19,7 +19,7 @@
 
   • Google Colabration (Deep Learning) [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yareenm/badges)
 
-  • Circuit Maker, Fritzing, Arduino IDE, MIT App Inventor (Arduino)
+  • MySQL, Oracle, PostGRE Databases
 
 
 Thank you 😄
